@@ -1,6 +1,6 @@
 # calendar
 
-A new Flutter application.
+A simple calendar made in Flutter to set Events for various dates. Enjoy!
 
 ## Getting Started
 
