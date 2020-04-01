@@ -79,7 +79,7 @@ class _CalAppState extends State<CalApp> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'Calendar Application',
+          'Calendar',
           style: TextStyle(color: Colors.yellow),
         ),
         centerTitle: true,
@@ -110,7 +110,7 @@ class _CalAppState extends State<CalApp> {
           Center(
             child: Container(
               child: Text(
-                "EVENTS",
+                "E V E N T S",
                 style: TextStyle(fontSize: 20.0),
               ),
             ),
